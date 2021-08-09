@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family:  Arial, Helvetica, sans-serif;
+    background-color: gold;
+    text-align: center;
+}
+#container-chd {
+    width: 350px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 15px;            
+}
+
+#container-chd > p {
+    margin: 0 0 15px 0;
+}
+
+img {
+    border-radius: 100px;
+}
